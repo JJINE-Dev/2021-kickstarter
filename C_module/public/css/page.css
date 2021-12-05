@@ -1,0 +1,3 @@
+#toast_container { position: fixed; right: 10vw; bottom: 10vh; z-index: 10000; }
+.text-gray { font-weight: bold !important;}
+.modal-body .title{ font-size:2em}
